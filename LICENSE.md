@@ -1,4 +1,4 @@
-# 
+# Nativo AI leaf disease detection system modelos. Com ética de IA e tomada de decisão automatizada — otimizado para máximo desempenho.
 
 
 
